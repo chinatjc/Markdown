@@ -41,10 +41,18 @@ Use the `printf()` function.
 
 段落：以一个空行开始，以一个空行结束，中间的就是一个段落。
 
-表格：
+表格：左对齐
 
 Item     | Value
 -------- | ---
+Computer | $1600
+Phone    | $12
+Pipe     | $1
+
+表格：居中对齐
+
+Item     | Value
+:-: | :-:
 Computer | $1600
 Phone    | $12
 Pipe     | $1
